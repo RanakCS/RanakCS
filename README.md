@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **SciPy**
 
-- 👨‍💻 All of my projects are available at [My profile or website](My profile or website)
+- 👨‍💻 All of my projects are available at [My profile](My profile)
 
 - 📫 How to reach me **dasranak2005@gmail.com**
 
