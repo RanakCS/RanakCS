@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [My profile or website](My profile or website)
 
-- 📫 How to reach me **dasranak@gmail.com**
+- 📫 How to reach me **dasranak2005@gmail.com**
 
 - ⚡ Fun fact **I love my life and also coding😂**
 
