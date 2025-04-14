@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **SciPy,Scikit-learn**
-
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **SciPy**
 
 - 👨‍💻 All of my projects are available at [My profile or website](My profile or website)
 
