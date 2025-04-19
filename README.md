@@ -1,11 +1,11 @@
+[![MasterHead](https://1.bp.blogspot.com/-7AWynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://Ranakdas.io)
 <h1 align="center">Hi 👋, I'm Ranak Das</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate developer from India</h3
+<img align="right" alt="coding" width="400" src="https://i.gifer.com/WMcu.gif">                                                      
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranakcs&label=Profile%20views&color=0e75b6&style=flat" alt="ranakcs" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranakcs" alt="ranakcs" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ranak" target="blank"><img src="https://img.shields.io/twitter/follow/ranak?logo=twitter&style=for-the-badge" alt="ranak" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ranak das" target="blank"><img src="https://img.shields.io/twitter/follow/ranak das?logo=twitter&style=for-the-badge" alt="ranak das" /></a> </p>
 
 - 🌱 I’m currently learning **SciPy**
 
@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ranak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ranak" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ranak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranak" height="30" width="40" /></a>
+<a href="https://twitter.com/ranak das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ranak das" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ranak das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranak das" height="30" width="40" /></a>
 <a href="https://fb.com/ranak das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ranak das" height="30" width="40" /></a>
 <a href="https://instagram.com/mr.ranak_205_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.ranak_205_official" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/tripod_tales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tripod_tales" height="30" width="40" /></a>
