@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ranak Das</h1>
 <h3 align="center">A passionate developer from India</h3>
+<img src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif" width="400px" align="right" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranakcs&label=Profile%20views&color=0e75b6&style=flat" alt="ranakcs" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranakcs" alt="ranakcs" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ranak das" target="blank"><img src="https://img.shields.io/twitter/follow/ranak das?logo=twitter&style=for-the-badge" alt="ranak das" /></a> </p>
 
